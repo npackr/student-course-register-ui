@@ -1,4 +1,8 @@
-# dang-ky-hoc-ui
+# student-course-register-ui
+
+A simple UI for student registering their courses using Vue + Nuxt+ Vuetify
+
+Live demo: https://student-course-register-ui.herokuapp.com/
 
 ## Build Setup
 
