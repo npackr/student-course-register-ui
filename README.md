@@ -2,7 +2,7 @@
 
 A simple UI for student registering their courses using Vue + Nuxt+ Vuetify
 
-Live demo: [https://student-course-register-ui.herokuapp.com/](https://npackr.github.io/student-course-register-ui/)
+Live demo: https://npackr.github.io/student-course-register-ui/
 ## Build Setup
 
 ```bash
